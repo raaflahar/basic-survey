@@ -3,7 +3,7 @@
 This is project building registration form using basic HTML and CSS. 
 
 ## Table of Contents
-- [Introduction] (#introduction)
+- [Introduction] [#introduction]
 - [Objectives] [##objectives]
 - [Guides] [##guides]
 - [Preview] [##preview]
