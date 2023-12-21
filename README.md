@@ -4,9 +4,9 @@ This is project building registration form using basic HTML and CSS.
 
 ## Table of Contents
 - [Introduction](##Introduction)
-- [Objectives]
-- [Guides]
-- [Preview]
+- [Objectives](##Objectives)
+- [Guides](##Guides)
+- [Preview](##Preview)
 
 ## Introduction
 
