@@ -1,4 +1,4 @@
-# basic-survey
+# Registration-Form
 
 This is project building registration form using basic HTML and CSS. 
 
@@ -24,4 +24,4 @@ To understand how this Registration Form has been build, you can visit my Medium
 
 ## Preview
 
-![Screenshoot]()
+![Screenshoot](https://miro.medium.com/v2/resize:fit:828/format:webp/1*Wxrr0RUpATjFGeQBlLhnhQ.png)
